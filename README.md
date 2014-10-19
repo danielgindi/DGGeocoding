@@ -3,7 +3,7 @@ DGGeocoding
 
 A geocoding services API wrapper, for iOS / ObjC.
 
-The geocoded will try all the services that are enabled, and will fallback from to another if there's a failure (i.e you have reached your request limit).
+The geocoder will try all the services that are enabled, and will fallback from to another if there's a failure (i.e you have reached your request limit).
 
 Currently supported services:
 
